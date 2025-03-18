@@ -15,11 +15,13 @@ p{
 
 a{
     display: block;
-    color: blue;
+    color: brown;
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: red;
+    color: cadetblue;
+    font-size: 200px;
+    transition: 300s;
 }
