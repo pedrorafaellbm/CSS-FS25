@@ -15,7 +15,7 @@ p{
 
 a{
     display: block;
-    color: brown;
+    color: rgb(42, 165, 106);
     text-decoration: none;
     font-weight: bold;
 }
@@ -51,6 +51,6 @@ a:hover {
     }
 
     #card {
-        wideth: 80%;
+        width: 80%;
     }
 }
