@@ -54,3 +54,18 @@ a:hover {
         width: 80%;
     }
 }
+
+div > a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 20 px;
+    background-color: firebrick; /* cor de destaque (laranja avermelhado) */
+    color: #ffffff; /* Texto branco */
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px; /* Cantos arredondados */
+    transition: 0.3s ease-in-out;
+    box-shadow: 0px 4 px 6px rgba(0, 0, 0, 0.2); /* Sombra para efeito 3D */
+}
